@@ -1,0 +1,5 @@
+#ignore build directory
+build/
+
+#ignore the files whose file name end with .a extension
+*.a
