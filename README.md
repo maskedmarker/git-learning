@@ -10,3 +10,4 @@ show diff betwwen unstaged and staged by "git diff <file>"
 show diff betwwen staged and commited by "git diff --staged <file>"
 commit staged file to repository by "git commit -m message"
 test git commit -a
+commit all changed file TRACKED by git by "git commit -a -m message" in where -a option means all changed files 
