@@ -1,0 +1,6 @@
+this file is used to display renaming.
+the original name of this file is rename_from
+
+this file is rename to rename_to.txt
+
+2020年05月17日 9:38:24  this file is rename to rename_to_2.txt
