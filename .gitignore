@@ -1,5 +1,22 @@
-#ignore build directory
-build/
+### javaIgnore template
+# Compiled class file
+*.class
 
-#ignore the files whose file name end with .a extension
-*.a
+# Intellij
+.idea/
+*.iml
+
+# Eclipse
+.project
+.settings/
+.classpath
+
+# Maven
+target/
+
+# Gradle
+build
+.gradle
+
+#logs
+logs/
